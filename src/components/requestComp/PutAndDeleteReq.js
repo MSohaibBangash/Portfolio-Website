@@ -3,7 +3,8 @@ import contactUs from "../../assets/contactUs.png"
 import { useFormik } from 'formik'
 import * as Yup from "yup"
 import handlePutRequest from '../../services/handlePutRequest'
-function PutRequest() {
+import handleDeleteRequest from '../../services/handleDeleteRequest'
+function PutAndDeleteReq() {
     const validateYupSchema = Yup.object().shape({
         name: Yup.string().required("Name field is required"),
         email: Yup.string().required("Email Address field is required"),
@@ -26,6 +27,11 @@ function PutRequest() {
     const getFormErrorMessage = (name) => {
         return isFormFieldValid(name) && <small className="p-error">{formik.errors[name]}</small>;
     };
+
+    const handleDeleteData = async()=>{
+       const response = await handleDeleteRequest('https://jsonplaceholder.typicode.com/posts/1')
+       console.log(response)
+    }
 
     return (
         <>
@@ -77,7 +83,10 @@ function PutRequest() {
                                     <textarea rows={1} name='message' value={formik.values.message} className="form-control mt-1 p-2" placeholder='Enter Your Message...' onChange={formik.handleChange} />
                                     {getFormErrorMessage("message")}
                                 </div>
-                                <button type='submit' className='form-btn px-4 mt-2 rounded'>Send Message</button>
+                                <div className='flex align-items-center '>
+                                    <button type='submit' className='form-btn px-4 mt-2 me-5 rounded'>Update</button>
+                                    <button  className='form-btn px-4 mt-2 rounded' onClick={()=> handleDeleteData()} >Delete</button>
+                                </div>
                             </form>
                         </div>
                     </div>
@@ -87,4 +96,4 @@ function PutRequest() {
     )
 }
 
-export default PutRequest
+export default PutAndDeleteReq
