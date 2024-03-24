@@ -38,7 +38,10 @@ This is a portfolio website project that showcases various sections including ho
 ### Features
 1. Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across different devices.
 2. Sections: Each section of the website serves a specific purpose, allowing visitors to learn more about the portfolio owner and their services.
-3. CRU Operations: Components are built to perform Create, Read, Update,  operations for managing content efficiently.
+3. CRUD Operations: Components are built to perform Create, Read, Update, Delete operations for managing content efficiently.
+
+Note:Delete request does not require to enter data in fields   
+
 Tools and Technologies Used
 HTML
 CSS
