@@ -32,7 +32,7 @@ function About() {
                 <p className='mb-0 text-grey fs-7'>At vero eos accusamus iusto</p>
               </div>
               <div >
-                <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="">More Information <span><i className="bi bi-arrow-right"></i></span></a>
+                <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="/">More Information <span><i className="bi bi-arrow-right"></i></span></a>
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@ function About() {
             <h5 className='fs-9 '>Product Development</h5>
             <p className='text-grey'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero delectus repudiandae, a architecto omnis .</p>
             <div >
-              <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="">Read More <span><i className="bi bi-arrow-right"></i></span></a>
+              <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="/">Read More <span><i className="bi bi-arrow-right"></i></span></a>
             </div>
           </div>
           <div className='col-lg-4 mt-5 mt-lg-0'>
@@ -55,7 +55,7 @@ function About() {
             <h5 className='fs-9 '>Marketing Product</h5>
             <p className='text-grey'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero delectus repudiandae, a architecto omnis .</p>
             <div >
-              <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="">Read More <span><i className="bi bi-arrow-right"></i></span></a>
+              <a className='text-decoration-none fs-7  text-primary' style={{ width: "max-content" }} href="/">Read More <span><i className="bi bi-arrow-right"></i></span></a>
             </div>
           </div>
 

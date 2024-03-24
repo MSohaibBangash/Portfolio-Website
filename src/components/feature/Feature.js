@@ -35,7 +35,7 @@ function Feature() {
                                 <h6 className="card-title fs-7 fw-medium text-black  mb-2 ">Works With Existing Apps</h6>
                                 <p className="card-text  text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="">More Information <span><i className="bi bi-arrow-right"></i></span></a>
+                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="/">More Information <span><i className="bi bi-arrow-right"></i></span></a>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ function Feature() {
                                 <h6 className="card-title fs-7 fw-medium text-black  mb-2 ">Easy Email Marketing</h6>
                                 <p className="card-text  text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="">More Information <span><i className="bi bi-arrow-right"></i></span></a>
+                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="/">More Information <span><i className="bi bi-arrow-right"></i></span></a>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,7 @@ function Feature() {
                                 <h6 className="card-title fs-7 fw-medium text-black  mb-2 ">Get Private Customers Feedback</h6>
                                 <p className="card-text  text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="">More Information <span><i className="bi bi-arrow-right"></i></span></a>
+                                    <a className='text-decoration-none text-primary' style={{ width: "max-content" }} href="/">More Information <span><i className="bi bi-arrow-right"></i></span></a>
                                 </div>
                             </div>
                         </div>

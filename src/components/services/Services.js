@@ -21,7 +21,7 @@ function Services() {
                                 <h6 className="card-title fs-7 fw-medium text-black text-center mb-2 ">Awesome Support</h6>
                                 <p className="card-text text-center text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href="">More <span><i className="bi bi-arrow-right"></i></span></a>   
+                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href='/'>More <span><i className="bi bi-arrow-right"></i></span></a>   
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@ function Services() {
                                 <h6 className="card-title fs-7 fw-medium text-black text-center mb-2 ">Analytics Security</h6>
                                 <p className="card-text text-center text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href="">More <span><i className="bi bi-arrow-right"></i></span></a>   
+                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href='/' >More <span><i className="bi bi-arrow-right"></i></span></a>   
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ function Services() {
                                 <h6 className="card-title fs-7 fw-medium text-black text-center mb-2 ">Data Privacy</h6>
                                 <p className="card-text text-center text-grey">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                 <div >
-                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href="">More <span><i className="bi bi-arrow-right"></i></span></a>   
+                                   <a className='d-block m-auto text-decoration-none  more-info' style={{width:"max-content"}} href='/' >More <span><i className="bi bi-arrow-right"></i></span></a>   
                                 </div>
                             </div>
                         </div>

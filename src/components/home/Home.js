@@ -20,7 +20,7 @@ function Home() {
                         </div>
                         <div className='col-lg-6 '>
                             <div className='home-img '>
-                                <img src={HomeImg}  />
+                                <img src={HomeImg}  alt='' />
                             </div>
                         </div>
                     </div>

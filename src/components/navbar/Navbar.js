@@ -16,7 +16,7 @@ function Navbar() {
         <>
             <nav className="nav-sticky fixed-top navbar-custom sticky sticky-dark navbar navbar-expand-lg navbar-light bg-light py-3">
                 <div className="container ">
-                    <a className="navbar-brand  me-3" href="#">
+                    <a className="navbar-brand  me-3" href='/'>
                         <img src={logo} alt="Logo" width="110px" className="logo-img" />
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,16 +47,16 @@ function Navbar() {
                             </li>
                         </ul>
                         <div className='d-flex align-items-center gap-3'>
-                            <a href="">
+                            <a href="/">
                                 <Facebook />
                             </a>
-                            <a href="">
+                            <a href="/">
                                 <Twitter />
                             </a>
-                            <a href="">
+                            <a href="/">
                                 <Instagram />
                             </a>
-                            <a href="">
+                            <a href="/">
                                 <Linkedin />
                             </a>
                         </div>

@@ -20,19 +20,19 @@ function Footer() {
                                 <h4 className='text-white fw-normal mb-3 '>Customer</h4>
                                 <ul className='ps-0'>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Works</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Works</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Strategy</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Strategy</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Releases</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Releases</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Press</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Press</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Mission</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Mission</a>
                                     </li>
                                     
                                 </ul>
@@ -41,16 +41,16 @@ function Footer() {
                                 <h4 className='text-white fw-normal mb-3'>Product</h4>
                                 <ul className='ps-0'>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Trending</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Trending</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Popular</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Popular</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Customers</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Customers</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Features</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Features</a>
                                     </li>
                                 </ul>
                             </div>
@@ -58,19 +58,19 @@ function Footer() {
                                 <h4 className='text-white fw-normal mb-3'>Learn More</h4>
                                 <ul className='ps-0'>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Developers</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Developers</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Support</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Support</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Customer Service</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Customer Service</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Get Started</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Get Started</a>
                                     </li>
                                     <li className='list-group-item my-2'>
-                                        <a className='text-grey fw-semibold text-decoration-none' href="">Guide</a>
+                                        <a className='text-grey fw-semibold text-decoration-none' href="/">Guide</a>
                                     </li>
                                     
                                 </ul>
