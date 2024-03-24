@@ -1,0 +1,39 @@
+.chat-btn {
+    background: linear-gradient(90deg, #2dd6b7 0, #58dec6);
+    border: none;
+    box-shadow: 0 4px 20px #2dd6b726;
+    color: #fff !important;
+}
+.form-btn {
+    background: linear-gradient(90deg, #3956de 0, #657be5);
+    border: none;
+    padding-top: 0.8rem !important;
+    padding-bottom: 0.8rem !important;
+    box-shadow: 0 4px 20px #2dd6b726;
+    color: #fff !important;
+}
+.chat-btn:hover > span{
+    color: white  !important;
+}
+.bg-color{
+    background: #343a4012;
+}
+
+
+
+/* @media (min-width: 576px) { ... } */
+
+/* @media (min-width: 768px) { ... } */
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .gap-5{
+        gap: 0 !important;
+    }
+ }
+
+ /* X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { ... } */
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) { ... } */

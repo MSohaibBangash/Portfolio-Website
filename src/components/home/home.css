@@ -1,0 +1,44 @@
+.right-60 {
+    right: 65px
+}
+
+.title {
+    font-size: 44px;
+    text-shadow: 1px 3px 5px #00000026;
+}
+
+.form-control {
+    padding: 0.675rem 0.75rem;
+}
+
+.form-control::placeholder {
+    color: #9b9bae;
+    font-size: 15px;
+}
+
+.btn-primary:hover {
+    background-color: #0d6efd !important
+}
+
+
+
+/* @media (min-width: 576px) { ... } */
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 32px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+    .home-img img {
+        width: 100% !important;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { ... } */
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) { ... } */

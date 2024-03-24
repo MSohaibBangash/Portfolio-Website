@@ -1,0 +1,39 @@
+.service-bg-img{
+    background-image: url("../../assets/services.png");
+    background-repeat: no-repeat;
+    background-size:100% 100% ;
+}
+.service-card:hover{
+  background-color: #3956DE;
+  transition: all .5s;
+}
+.card-image{
+    filter: brightness(.55);
+}
+
+.service-card:hover .card-image{
+    filter: none;
+} 
+.service-card:hover .card-title{
+    color: white !important;
+} 
+.service-card:hover .more-info{
+    color: white !important;
+}
+.more-info{
+    color: black !important;
+}
+
+
+ /* @media (min-width: 576px) { ... } */
+
+/* @media (min-width: 768px) { ... } */
+
+/* Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) {...} */
+
+  /* X-Large devices (large desktops, 1200px and up) */
+ /* @media (min-width: 1200px) { ... } */
+ 
+  /* XX-Large devices (larger desktops, 1400px and up) */
+ /* @media (min-width: 1400px) { ... } */

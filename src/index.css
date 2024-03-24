@@ -1,0 +1,53 @@
+body {
+   font-family: Mulish, sans-serif; 
+}
+h1,h2,h3,h4,h5,h6{
+   font-family: Rubik, sans-serif;
+}
+.text-grey {
+   color: #9b9bae !important;
+}
+.section{
+   padding-bottom: 80px;
+   padding-top: 80px;
+}
+.fs-8 {
+   font-size: 0.85rem !important;
+}
+.fs-10 {
+   font-size: 0.9rem;
+}
+.fs-7 {
+   font-size: 1.1rem;
+}
+.fs-9{
+   font-size: 1.15rem !important;
+}
+.transition-all{
+   transition: all .5s;
+}
+.width-95{
+   width: 95% !important ;
+}
+.p-error{
+   color: red;
+}
+
+/*  */
+
+
+ /* @media (min-width: 576px) { ... } */
+
+/* @media (min-width: 768px) { ... } */
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+   .lg-w-50{
+     width: 50% !important;
+   }
+ }
+ /* X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) { ... } */
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) { ... } */

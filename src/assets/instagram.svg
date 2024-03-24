@@ -1,0 +1,11 @@
+<?xml version="1.0" ?><svg
+  viewBox="36 36 184 184"
+  xmlns="http://www.w3.org/2000/svg"
+  height="20px" 
+  width="20px" 
+>
+  <rect fill="none" height="184" width="184"/>
+  <circle cx="128" cy="128" fill="none" r="40" stroke="#9b9bae" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <rect fill="none" height="184" rx="48" stroke="#9b9bae" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" width="184" x="36" y="36"/>
+  <circle cx="180" cy="76" r="10"/>
+</svg>
